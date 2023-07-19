@@ -1,6 +1,6 @@
-** Hello 👋 **
+**Hello 👋**
 
-** I am happy to see you in my repo **
+**I am happy to see you in my repo**
 
 #If you like my Repo pls like 👍
 
